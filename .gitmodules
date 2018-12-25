@@ -2,3 +2,6 @@
 	path = SuRF
 	url = https://github.com/dnbaker/SuRF
     branch = master
+[submodule "fpwrap"]
+	path = fpwrap
+	url = https://github.com/dnbaker/fpwrap
